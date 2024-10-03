@@ -1,6 +1,6 @@
 ### Hi there 👋,  I'm Md Shakib Hossain
 #### I'm a passionate Python and Django web and mobile application developer
-![I'm a passionate Python and Django web and mobile application developer]((https://gpvc.arturio.dev/mdshakibhossai)
+![I'm a passionate Python and Django web and mobile application developer](https://gpvc.arturio.dev/mdshakibhossai)
 
 I am a full-stack developer skilled in Python, Django, Flask, Vue.js, Bootstrap, Laravel, and Rails. My journey started with a strong foundation in backend development, and now I have ventured into mobile application development as well. I enjoy learning new technologies and tackling challenging projects. Currently, I'm working on exciting projects at Mohuls Soft Limited and always open to collaboration opportunities.
 
