@@ -1,6 +1,6 @@
 ### Hi there 👋,  I'm Md Shakib Hossain
 #### I'm a passionate Python and Django web and mobile application developer
-![I'm a passionate Python and Django web and mobile application developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I'm a passionate Python and Django web and mobile application developer](https://media.licdn.com/dms/image/v2/D5616AQFJXjz2yLyPCg/profile-displaybackgroundimage-shrink_350_1400/B56ZnT.t8qJwAY-/0/1760198059304?e=1762992000&v=beta&t=ktnmrSqHnHfYRow5C6xd0pf8aN7b3mu3FquqxO6sOXo)
 
 I am a full-stack developer skilled in Python, Django, Flask, Vue.js, Bootstrap, Laravel, and Rails. My journey started with a strong foundation in backend development, and now I have ventured into mobile application development as well. I enjoy learning new technologies and tackling challenging projects. Currently, I'm working on exciting projects at Mohuls Soft Limited and always open to collaboration opportunities.
 
